@@ -1,0 +1,21 @@
+{
+  "name": "fit",
+  "authors": [
+    "Veli-Matti Luoto <vellu@deveo.com>",
+    "Ville Vainio <ville@deveo.com>"
+  ],
+  "description": "Makes child elements take and share the full width of their parent.",
+  "main": "fit.js",
+  "license": "MIT",
+  "homepage": "https://github.com/Deveo/fit",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.1.0"
+  }
+}

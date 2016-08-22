@@ -1,0 +1,25 @@
+{
+  "name": "fit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fit.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^0.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deveo/fit.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Deveo/fit/issues"
+  },
+  "homepage": "https://github.com/Deveo/fit#readme"
+}

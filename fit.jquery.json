@@ -1,0 +1,19 @@
+{
+  "name": "fit",
+  "version": "1.0.0",
+  "title": "jQuery Fit Plugin",
+  "author": {
+    "name" : "Veli-Matti Luoto",
+    "email" : "vellu@deveo.com",
+    "url" : "https://deveo.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "2.1.0"
+  }
+}
